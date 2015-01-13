@@ -1,0 +1,7 @@
+/bin
+/build/
+
+.idea/libraries/
+.idea/workspace.xml
+.idea/tasks.xml
+
