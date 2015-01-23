@@ -18,4 +18,9 @@ public class HelloWorld
     {
         a = a + 1;
     }
+
+    public void fun2(int a)
+    {
+        a = a + 2;
+    }
 }
