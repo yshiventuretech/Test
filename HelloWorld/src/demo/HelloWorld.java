@@ -12,4 +12,10 @@ public class HelloWorld
 	{
 		System.out.println("Hello World!");
 	}
+
+
+    public void fun1(int a)
+    {
+        a = a + 1;
+    }
 }
