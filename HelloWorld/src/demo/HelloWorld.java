@@ -23,4 +23,9 @@ public class HelloWorld
     {
         a = a + 2;
     }
+
+    public String method1()
+    {
+        return "";
+    }
 }
